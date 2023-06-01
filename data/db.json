@@ -1,0 +1,6 @@
+{    "blogs" :[
+        {"title": "my new website", "body":"lorem Imosum", "author": "yoshi", "id": 1},
+        {"title": "my new website", "body":"lorem Imosum", "author": "yoshi", "id": 2},
+        {"title": "my new website", "body":"lorem Imosum", "author": "yoshi", "id": 3},
+        {"title": "my new website", "body":"lorem Imosum", "author": "yoshi", "id": 4}
+    ]}
